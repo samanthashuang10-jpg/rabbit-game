@@ -9,6 +9,7 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   reactStrictMode: false,
+  assetPrefix: "/rabbit-game",
 };
 
 export default nextConfig;
